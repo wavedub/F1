@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR blue][I]- CANALES DE TV-[/COLOR] [/I] 
+
+#EXTINF:-1,[000] F1
+
+https://lon-haproxy.angelthump.com/hls/dascerf1/index.m3u8
+
+#EXTINF:-1,[000] F12
+
+https://lon-haproxy.angelthump.com/hls/dascerf1/index.m3u8?stream=dascerf1
+
+#EXTINF:-1,[001] La 1
